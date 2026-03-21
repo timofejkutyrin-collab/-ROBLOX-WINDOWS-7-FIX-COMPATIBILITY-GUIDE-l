@@ -60,5 +60,7 @@ INSTRUCTIONS:
 
 4. ADDITIONAL
    If the OS error persists when running the game itself, repeat the steps from section 2 for the RobloxPlayerBeta.exe file in the Versions folder.
+edit: I'll get sued for copyright infringement if I publish everything at once, so here are the download links:
+roblox:https://www.roblox.com/download/client VxKex:https://github.com/i486/VxKex/releases?ysclid=mn0rtictng79424935
 
 ==================================================
