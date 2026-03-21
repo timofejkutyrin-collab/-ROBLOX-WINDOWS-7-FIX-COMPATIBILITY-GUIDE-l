@@ -1,4 +1,4 @@
-# -ROBLOX-WINDOWS-7-FIX-COMPATIBILITY-GUIDE-l
+# -ROBLOX-WINDOWS-7-FIX-COMPATIBILITY-GUIDE-l (ru)
 
 ВАЖНО: ПЕРЕД УСТАНОВКОЙ
 1. ОТКЛЮЧИТЕ АНТИВИРУС (особенно 360 Total Security).
@@ -33,7 +33,7 @@ roblox:https://www.roblox.com/download/client
 VxKex:https://github.com/i486/VxKex/releases?ysclid=mn0rtictng79424935
 godbyeDPI:https://github.com/ValdikSS/GoodbyeDPI/releases/?ysclid=mn0yd8fvtz622442272
 ==================================================
-# -ROBLOX-WINDOWS-7-FIX-COMPATIBILITY-GUIDE-l
+# -ROBLOX-WINDOWS-7-FIX-COMPATIBILITY-GUIDE-l (eng)
 
 IMPORTANT: BEFORE INSTALLATION
 1. DISABLE YOUR ANTIVIRUS (especially 360 Total Security).
@@ -65,3 +65,25 @@ INSTRUCTIONS:
 edit: I'll get sued for copyright infringement if I publish everything at once, so here are the download links:
 roblox:https://www.roblox.com/download/client VxKex:https://github.com/i486/VxKex/releases?ysclid=mn0rtictng79424935
 ==================================================
+#
+-中文 (ZH)
+**重要提示：网络访问**
+如果遇到访问受限或下载缓慢，建议使用 **Tor 浏览器** 访问以下链接。
+
+**安装步骤：**
+1. **杀毒软件**：请务必关闭（尤其是 **360安全卫士**），以免拦截 VxKex。
+2. **系统更新**：确保已安装 **KB4474419**。
+3. **模拟器**：运行 `VxKex_Setup.exe` 并重启。
+4. **设置**：右键点击 `RobloxPlayerInstaller.exe` -> 属性 -> VxKex 选项卡。勾选开启并选择 **Windows 10**。
+5. **DLL 修复**：如果提示 `api-ms-win-eventlog-legacy-l1-1-0.dll` 丢失，请将本仓库中的 DLL 复制到 Roblox 的 Versions 文件夹中。
+
+---
+
+## 🔗 DOWNLOAD LINKS / 下载链接
+* **Roblox**: [Official Download](https://www.roblox.com/download/client)
+* **VxKex**: [Official Releases](https://github.com/i486/VxKex/releases)
+* **GoodbyeDPI**: [Official Releases](https://github.com/ValdikSS/GoodbyeDPI/releases)
+* **Tor Browser**: [Official Site](https://www.torproject.org/)
+
+---
+*Disclaimer: This repository does not host game files. It provides compatibility tools and instructions only.*
