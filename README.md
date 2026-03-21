@@ -29,3 +29,34 @@
    Если ошибка ОС сохраняется при запуске самой игры, повторите шаги из пункта 2 для файла RobloxPlayerBeta.exe в папке Versions.
 
 ==================================================
+# -ROBLOX-WINDOWS-7-FIX-COMPATIBILITY-GUIDE-l
+
+IMPORTANT: BEFORE INSTALLATION
+1. DISABLE YOUR ANTIVIRUS (especially 360 Total Security).
+   Reason: VxKex components lack digital signatures. Antivirus programs block them, mistaking them for threats.
+2. ENSURE YOU HAVE UPDATE KB4474419 (SHA-2 support). Without it, anti-cheat drivers will not run.
+3. GRANT PERMISSIONS: When installing and running, always select "Yes" when the system prompts for changes (UAC).
+
+INSTRUCTIONS:
+
+1. EMULATOR INSTALLATION
+   - Run VxKex_Setup.exe.
+   - Confirm installation and restart your PC.
+
+2. CONFIGURE ROBLOX INSTALLER
+   - Right-click on RobloxPlayerInstaller.exe → Properties → VxKex Tab.
+   - Check the box "Enable VxKex for this program".
+   - MUST check the box "Report a different version of Windows".
+   - From the list, select "Windows 10" (build 19044 or higher).
+   - Click OK and run the installation.
+
+3. FIX DLL ERROR
+   If the game shows an error api-ms-win-eventlog-legacy-l1-1-0.dll:
+   - Copy the file api-ms-win-eventlog-legacy-l1-1-0.dll from this repository.
+   - Navigate to folder: C:\Users\[Your_Name]\AppData\Local\Roblox\Versions\version-[code]\
+   - Paste the file in the folder where RobloxPlayerBeta.exe is located.
+
+4. ADDITIONAL
+   If the OS error persists when running the game itself, repeat the steps from section 2 for the RobloxPlayerBeta.exe file in the Versions folder.
+
+==================================================
