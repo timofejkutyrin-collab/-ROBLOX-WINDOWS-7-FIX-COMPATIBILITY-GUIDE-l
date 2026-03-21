@@ -27,7 +27,9 @@
 
 4. ДОПОЛНИТЕЛЬНО
    Если ошибка ОС сохраняется при запуске самой игры, повторите шаги из пункта 2 для файла RobloxPlayerBeta.exe в папке Versions.
-
+правка:меня прибьют за авторские права если я опубликую сразу все готовое поэтому держите ссылки на скачивание:
+roblox:https://www.roblox.com/download/client
+VxKex:https://github.com/i486/VxKex/releases?ysclid=mn0rtictng79424935
 ==================================================
 # -ROBLOX-WINDOWS-7-FIX-COMPATIBILITY-GUIDE-l
 
