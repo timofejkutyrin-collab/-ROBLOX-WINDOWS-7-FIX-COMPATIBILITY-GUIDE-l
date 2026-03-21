@@ -27,11 +27,11 @@
 
 4. ДОПОЛНИТЕЛЬНО
    Если ошибка ОС сохраняется при запуске самой игры, повторите шаги из пункта 2 для файла RobloxPlayerBeta.exe в папке Versions.
-ВАЖНО:перед установкой Roblox по ссылке установите byebyeDPI,ссылку на который я тоже оставлю
+*ВАЖНО*:перед установкой Roblox по ссылке установите godbyeDPI,ссылку на который я тоже оставлю
 правка:меня прибьют за авторские права если я опубликую сразу все готовое поэтому держите ссылки на скачивание:
 roblox:https://www.roblox.com/download/client
 VxKex:https://github.com/i486/VxKex/releases?ysclid=mn0rtictng79424935
-byebyeDPI:https://github.com/romanvht/ByeByeDPI/releases?ysclid=mn0y5ucr3c426516488
+godbyeDPI:https://github.com/ValdikSS/GoodbyeDPI/releases/?ysclid=mn0yd8fvtz622442272
 ==================================================
 # -ROBLOX-WINDOWS-7-FIX-COMPATIBILITY-GUIDE-l
 
