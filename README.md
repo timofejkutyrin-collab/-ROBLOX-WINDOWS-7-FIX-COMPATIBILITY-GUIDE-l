@@ -31,6 +31,7 @@
 правка:меня прибьют за авторские права если я опубликую сразу все готовое поэтому держите ссылки на скачивание:
 roblox:https://www.roblox.com/download/client
 VxKex:https://github.com/i486/VxKex/releases?ysclid=mn0rtictng79424935
+byebyeDPI:https://github.com/romanvht/ByeByeDPI/releases?ysclid=mn0y5ucr3c426516488
 ==================================================
 # -ROBLOX-WINDOWS-7-FIX-COMPATIBILITY-GUIDE-l
 
