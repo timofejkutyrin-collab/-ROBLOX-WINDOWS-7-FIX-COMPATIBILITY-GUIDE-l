@@ -76,7 +76,8 @@ roblox:https://www.roblox.com/download/client VxKex:https://github.com/i486/VxKe
 3. **模拟器**：运行 `VxKex_Setup.exe` 并重启。
 4. **设置**：右键点击 `RobloxPlayerInstaller.exe` -> 属性 -> VxKex 选项卡。勾选开启并选择 **Windows 10**。
 5. **DLL 修复**：如果提示 `api-ms-win-eventlog-legacy-l1-1-0.dll` 丢失，请将本仓库中的 DLL 复制到 Roblox 的 Versions 文件夹中。
-
+请在设置中使用 obfs4 网桥 以连接 TOR。
+TOR 网桥:obfs4 5.45.103.192:2828 EE6B1DE5DEEAD9CFFE970360C3306C81BC6E8030 cert=RqUOIGSlNamAECvzfHSXfaPQxlwuEudnd5Tk64/uU8JHPgxMNrzhp1qpELivbS8vBvOEMw iat-mode=0
 ---
 
 ## 🔗 DOWNLOAD LINKS / 下载链接
@@ -84,6 +85,7 @@ roblox:https://www.roblox.com/download/client VxKex:https://github.com/i486/VxKe
 * **VxKex**: [Official Releases](https://github.com/i486/VxKex/releases)
 * **GoodbyeDPI**: [Official Releases](https://github.com/ValdikSS/GoodbyeDPI/releases)
 * **Tor Browser**: [Official Site](https://www.torproject.org/)
+
 
 ---
 *Disclaimer: This repository does not host game files. It provides compatibility tools and instructions only.*
